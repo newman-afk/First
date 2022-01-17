@@ -1,3 +1,2 @@
-# Escape
-
-Telegram link:http://t.me/goodlonelymen_bot
+这是我最早开始打算在GitHub写代码的时候，如你所见，并没有成功。
+现在我已经不打算继续写C代码，暂时的方向是C#以及Unity，C#基础语法稍有准备，接下来会找开源项目分析、学习，并分享学习所得。
